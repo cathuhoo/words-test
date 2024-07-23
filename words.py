@@ -67,3 +67,6 @@ while word_list:
 if wrong_answer:
     print(f"\n-----------\nYou have got {len(wrong_answer)} spelling mistake out of {t} words \n\nThis is the wrong answer list\n\n {wrong_answer}")
 print("Goodbye!")
+
+
+    # If the script is run directly, run
